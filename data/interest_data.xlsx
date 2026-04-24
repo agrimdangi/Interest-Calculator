@@ -1,0 +1,36 @@
+### 📊 interest_data.xlsx
+
+| Principal | Rate (%) | Time (Years) | Type     |
+| --------- | -------- | ------------ | -------- |
+| 1000      | 5        | 2            | Simple   |
+| 2000      | 7        | 3            | Compound |
+| 1500      | 6        | 1            | Simple   |
+| 3000      | 8        | 4            | Compound |
+| 2500      | 5        | 5            | Compound |
+
+---
+
+### 📌 Column Explanation
+
+* **Principal** → Initial amount (₹)
+* **Rate (%)** → Interest rate
+* **Time (Years)** → Duration
+* **Type** → `Simple` or `Compound`
+
+---
+
+### ⚠️ Important
+
+* Save file as:
+  👉 `data/interest_data.xlsx`
+* Column names must match exactly
+* No extra spaces
+
+---
+
+### 💡 Pro Tip (to impress faculty)
+
+* Add 15–20 rows
+* Mix Simple + Compound
+* Mention in viva:
+  👉 “Project can process bulk financial data from Excel”
